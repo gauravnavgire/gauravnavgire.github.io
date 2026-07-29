@@ -76,9 +76,9 @@ e-learning platform on Android (hybrid) and desktop (JavaFX).
 <!-- ## Technical skills
 
 - **Languages:** Java, Kotlin, JavaScript, Python
-- **Mobile:** Android, iOS, Cordova, offline-first & reactive (RxJava)
+- **Mobile:** Android, iOS, Cross-Platform, offline-first & reactive (RxJava)
 - **Backend:** Spring Boot, Spring Cloud, Spring MVC, microservices, OAuth 2.0 / JWT, ASP.NET
-- **Data:** MySQL, SQLite, MongoDB, Redis, Ehcache
+- **Data:** MySQL, SQLite, MongoDB, DynamoDB Redis, Ehcache
 - **Cloud:** Google Cloud Platform, AWS, Azure
 - **DevOps & tooling:** Docker, Jenkins, Git/SVN, Linux, Agile Scrum, Jira -->
 
@@ -90,8 +90,7 @@ e-learning platform on Android (hybrid) and desktop (JavaFX).
 ## Beyond work
 
 Outside of architecture, I'm a lifelong gamer — co-founder of Playground eSports,
-a video-game blogger and hobbyist game programmer, and
-[certified in Gamification](https://bit.ly/2ov3PQs) from the University of
+a video-game blogger and hobbyist game programmer, certified in Gamification from the University of
 Pennsylvania (Coursera).
 
 ## Let's connect
