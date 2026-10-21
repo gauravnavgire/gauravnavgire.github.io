@@ -144,9 +144,14 @@ calendar (`.ics`) file or a Gantt chart.
 
 - **Claude still does the reading.** A date the model misses is still missed.
   The self-check catches invented and misquoted events, not missing ones.
-- **The evaluation is still running.** The repo includes a kit that runs real
-  Claude sessions on 14 test documents with answer keys, scoring recall,
-  precision and date accuracy. I'll publish the numbers when it's done.
+- **The evaluation uses my own test documents.** Real Claude sessions on 14
+  documents with answer keys found **98 of 99 events** (every must-have
+  one), got **97 of 98 dates exactly right**, gave **no** vague date a fake
+  precision, and used the skill for **4 of 6** prompts that called for it
+  with **no** false triggers. I wrote the documents for the test, and each
+  prompt ran once, so treat these as indicative. The
+  [full results](https://github.com/gauravnavgire/chronology/blob/main/eval/RESULTS.md)
+  include the limitations, and real-world test cases are very welcome.
 - Hindu solar calendars (Tamil, Malayalam, Bengali) and the Chinese calendar
   aren't supported yet.
 
